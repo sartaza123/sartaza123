@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently fresher in Full stack development with javascript react react native flutter html css node mango DB e express git github etc<br>
+ ### Full stack developer<br>
 
 
 ## 🌐 Socials:
